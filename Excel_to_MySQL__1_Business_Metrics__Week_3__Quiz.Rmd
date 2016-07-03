@@ -7,78 +7,78 @@ output: html_document
 * Conserve limited marketing resources
 * More effectively address people most likely to respond favorably to their product or service
 * Increase the probability of developing high-value, recurring-revenue customers
-* All of the above
+* __All of the above__
 
 ### Question 2: Actual CPC, divided by the conversion rate, is the revenue metric:
 * Ad Rank
 * Maximum Cost per Click-through
 * Quality Score
-* Acquisition Cost
+* __Acquisition Cost__
 
 ### Question 3: Which of the following are possible demographic categories? (check all that apply)
-* Income
-* Level of Education
-* Age
-* Location by zip code
-* Member of Vegetarian Interest Group Facebook page
-* Shoe size
+* __Income__
+* __Level of Education__
+* __Age__
+* __Location by zip code__
+* __Member of Vegetarian Interest Group Facebook page__
+* __Shoe size__
 
 ### Question 4: The metric referred to as an "organic link" tells us that a visitor to our site came from:
 * A sponsored link
 * Directly typed in the url address of our site
-* An unpaid link to our website that came up in search results
+* __An unpaid link to our website that came up in search results__
 * Clicking on a link to our site in a blog post or article
 
 ### Question 5: Some step in "search engine optimization" or SEO, are: (check all that apply)
-* Increase our "social signal" by increasing our Facebook page "likes" and retweets
-* Get third-party websites with authoritative reputations and substantive opinions to mention us and provide a link to our website
+* __Increase our "social signal" by increasing our Facebook page "likes" and retweets__
+* __Get third-party websites with authoritative reputations and substantive opinions to mention us and provide a link to our website__
 * Increase links to our website from all possible third-party websites
-* Make sure our content is current, substantive and directly relevant
+* __Make sure our content is current, substantive and directly relevant__
 
 ### Question 6: The Internal Rate of Return (IRR) is used to calculate returns when:
 * It is necessary to annualize the rate of return
 * There are several methods that can be used, but a single method is preferred
-* Cash is invested at several different times
+* __Cash is invested at several different times__
 * It is necessary to compare two different rates of return
 
 ### Question 7: In finance, one of the most important risk metrics is the standard deviation of returns - known as "volatility" of returns. Why?
 * Higher volatility leads to higher returns
 * Volatility of returns is a measure of risk and avoiding risk is a fundamental aim of investing
 * Higher volatility leads to lower returns
-* Given a choice between two investments with the same expected return, rational, risk-averse investors will choose the one with the lower volatility of returns.
+* __Given a choice between two investments with the same expected return, rational, risk-averse investors will choose the one with the lower volatility of returns.__
 
 ### Question 8: The Sharpe Ratio can be characterized as:
 * The excess return of the asset investment over the risk-free rate, divided by the volatility of return of the asset
 * A revenue metric divided by a risk metric
 * A way to compare very different types of investments
-* All of the above.
+* __All of the above.__
 
 ### Question 9: In theory, a money manager could generate any return they wanted if they took on enough leverage. But this would also:
 * Require a more skilled manager
-* Increase volatility of returns at the same rate as they increase their excess returns over the risk-free rate.
+* __Increase volatility of returns at the same rate as they increase their excess returns over the risk-free rate.__
 * Inversely affect the discrete rate of return
 * None of the above
 
 ### Question 10: The expense ratio is the money spent on operating the fund, divided by the total market value of the fund assets. What expense associated with the fund is NOT included in the money spent operating the fund in calculating the expense ratio?
 * Operating expenses associated with marketing the fund
 * Costs incurred in fighting shareholder lawsuits against the fund managers
-* Brokerage fees the fund pays to buy and sell assets
+* __Brokerage fees the fund pays to buy and sell assets__
 * The manager's performance bonus
 
 ### Question 11: If active fund managers picked their portfolios from an Index "universe" at random, weighted them by relative market capitalization, and held them for a given time interval, what percentage of managers would be expected to out-perform the Index return, before taking their fees into account?
 * 10%
 * 28%
-* 50%
+* __50%__
 * 80%
 
 ### Question 12: Why is it considered undesirable for a fund manager to have a large tracking error?
-* Tracking error is a kind of risk metric - it implies wide variation from the appropriate benchmark
+* __Tracking error is a kind of risk metric - it implies wide variation from the appropriate benchmark__
 * Tracking errors are closely correlated with decreased profit
 * Tracking errors are the standard deviation of excess returns.
 * None of the above
 
 ### Question 13: What is the best metric for evaluating Venture Capital and Private Equity Funds?
-* Internal Rate of Return (IRR)
+* __Internal Rate of Return (IRR)__
 * Tracking Error
 * Quality Score
 * Positive cash flow
@@ -87,10 +87,10 @@ output: html_document
 * They invest in many different types of assets, including options and derivatives
 * They are typically permitted to structure a deal so that they make money when a stock goes down in price
 * Investors like to see a strong linear trend in the log value of wealth in a fund.
-* Hedge fund investors typically also invest large amounts of capital in major equity markets, and target the highest possible risk-adjusted return on their combined portfolio.
+* __Hedge fund investors typically also invest large amounts of capital in major equity markets, and target the highest possible risk-adjusted return on their combined portfolio.__
 
 ### Question 15: On what measures are Mutual Fund Managers primarily judged relative to their benchmark?
-* Excess return and tracking error
+* __Excess return and tracking error__
 * Maximum drawdown and tracking error
 * Linearity of log return and maximum drawdown
-* All of the above
+* All of the above__
