@@ -1,0 +1,187 @@
+---
+title: "Week 1 Quizzes"
+output: html_document
+---
+
+## Practice Quiz
+__Background Information:__ You are provided below with an Excel Spreadsheet that gives one year's daily continually compounded returns for two chemical company stocks, Dow and Dupont, and the S&P 500, a weighted index of 500 large company stocks.  
+[Week 1 Practice Quiz Spreadsheet](https://d18ky98rnyall9.cloudfront.net/_f3ef0701f408b0fae584b1a713e84748_Week-1-Practice-Quiz-Spreadsheet.xlsx?Expires=1467676800&Signature=Tl4PsTIlUs6ofZUXm390O8tJQZ-CtcKWu-Au4K6fy8R7V1jjQIAMVUBpHdWxW18RiX69mIV0UT6BgKS8ArQso1qgqma6JCYk-W4pW8m1chT8V-dkoCi830ieMgARrJusm5epGGJEqxVlZaC7JvmZwXrTh2oNgcV~ea0tx~GEuX4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)  
+[Completed Week 1 Practice Quiz Spreadsheet]("/Data Sets/Week_1_Practice_Quiz_Spreadsheet.xlsx")
+
+### Question 1: 
+__Excel Problem Type:__ Summing a column  
+__Problem Information:__ Daily continuously compounded returns can be summed to obtain returns over longer time intervals. Sum the daily returns to calculate annual continuously compounded returns for 2010. Give each result in percent, rounded to two digits to the right of the decimal place - for example, 11.76%.  
+__Solve:__ What is the Dow Chemical Annual return?
+
+* 26.15%
+* 20.51%
+* 18.65%
+* __23.23%__
+
+### Question 2: 
+__Excel Problem Type:__ Calculating correlation for a two-column array  
+__Question:__ What is the correlation between daily continuously compounded returns for Dow Chemical and for the S&P 500 Index? Round your answer two digits to the right of the decimal place - for example, .84
+
+* .57
+* .48
+* .78
+* __.79__
+
+### Question 3: 
+__Excel Problem Type:__ Identifying the maximum value in a column and sorting multiple columns while preserving rows.  
+__Question:__ On what day in 2010 did Dow Chemical returns out perform S&P 500 Index returns the most?
+
+* October 25, 2010
+* February 1, 2010
+* __April 28, 2010__
+
+### Question 4: 
+__Excel Problem Type:__ Using Excel "If" statements to determine how many days in 2010 Dow Chemical returns are higher than Dupont Returns.  
+__Problem Information:__ Assuming Dow Chemical Returns are in Column B and Dupont Returns in Column C, the "If" statements will be of the form =IF(B3>C3, 1, 0). Set up a column of "If" statements and then each day where Dow return > Dupont return will have a value of 1, otherwise 0.  
+__Question:__ How many days out of the 252 trading days in 2010 did Dow outperform Dupont?
+
+* 125
+* __124__
+* 128
+* 122
+
+### Question 5: 
+__Excel Problem Type:__ Sorting multiple columns while preserving rows  
+__Question:__ What was the fifth-worst performing day for the S&P 500 Index in 2010?
+
+* __June 29, 2010__
+* May 10, 2010
+* May 20, 2010
+* February 4, 2010
+
+### Question 6: 
+__Excel Problem Type:__ Defining the Sharpe Ratio  
+__Problem Information:__ A "Sharpe Ratio" is a way of measuring the performance of an investment asset that takes into account both returns and the standard deviation (also called the volatility) of returns over time. A stock's Sharpe ratio is the difference between its returns and the return of a risk-free investment, such as a government bond, divided by the standard deviation of returns of the asset. For example, if a stock returns 15% per year, and the risk-free asset returns 3% per year, and the volatility of the stock is 18% per year, the Sharpe Ratio is 12%/18% = .67.  
+__Question:__ If a risk-free asset returns 2% per year, and the standard deviation of returns of Dupont stock is 20%, what is the Sharpe Ratio for Dupont stock for 2010? Give the answer to two digits to the right of the decimal place.
+
+* .93
+* .88
+* __.83__
+* .84
+
+### Question 7: 
+__Excel Problem Type:__ Optimization using the "Solver" plug-in  
+__Problem Information:__ Assume that at a particular gas station, the quantity of automobile fuel sold in a week is a function of the fuel's retail price.  
+The quantity of fuel sold in a week (in gallons) = (1,000 - 300x), where x is the price in dollars per gallon.  
+The function f(x) for revenues from weekly sales, in dollars, will equal x*(1000 - 300x) = 1000x - 300x^2.  
+Without using calculus or any other advanced math, the MS Solver plug-in can be used to find the input value for x that results in a maximum value for a function f(x). The price x is in the Solver "variable cell" and the function 1000x - 300x^2 is the Solver "objective."  
+__Question:__ What is the price x that maximizes weekly revenues?
+
+* $1.45/gallon
+* $14.50/gallon
+* __$1.67/gallon__
+* $16.67/gallon
+
+### Question 8: 
+__Excel Problem Type:__ Scatter plots and trend line options  
+__Solve:__ Generate a scatter plot that pairs the daily returns of Dow Chemical (y axis) "against" the S&P 500 returns (x axis). The slope of the regression line is also called "Beta."  
+__Question:__ What is Beta for Dow Chemical? Give the answer rounded two digits to the right of the decimal place.
+
+* 1.62
+* 1.00
+* 1.55
+* __1.66__
+
+## Graded Quiz
+Download the Solutions Workbook (below) and find the tab labeled 2S-10 that contains monthly continuously compounded returns for two stock indexes - RSP and SPY - and two individual stocks - Amazon and Duke Energy - for the 12 years from May 2003 to May 2015.  
+[SolutionWorkbook](https://d18ky98rnyall9.cloudfront.net/_88b98614aae9ef0e7567a32e94459084_SolutionWorkbook.xlsx?Expires=1467676800&Signature=LM8F0bgaYqX7v4BTBmwowb4JGE8UZed~tp4Jtbsx3XXreTzNhsff9C9QLEk2j36kqKX91po5fjo59wCNH9KYuTBI~2q213FtV8o9woeLwosypgUyr3u27Rf6teaKQz~R1y81Q~3MdeOECs3bvPkM8ALnBWfDgifNKpkFgZjyxxE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)  
+[Completed SolutionWorkbook]()  
+
+#### Answer Questions 1-3 based on the information below:
+Use Excel's chart function to generate a scatter plot of SPY index monthly returns (y axis) against Amazon monthly returns (x axis). When you use "trendline" option for slope, R-squared, and the y-intercept, double-check your results against the equivalent cell formula answers.
+
+### Question 1: 
+What is the slope of the best-fit line (rounded to two decimal places)?
+
+* 0.11
+* 0.12
+* __0.15__
+* 0.18
+
+### Question 2: 
+What is the coefficient of determination (R-squared)? Use the "rsq" Excel function (Trendline in Excel may give an inaccurate value for R-squared).
+
+* __0.18__
+* 0.20
+* 0.22
+* 0.24
+
+### Question 3: 
+What is the Y-intercept, in percent? Use the "trendline" but double-check against the "intercept" function.
+
+* 0.25%
+* 0.35%
+* __0.45%__
+* 0.55%
+
+#### Answer Questions 4 and 5 based on the information below:
+
+The annual "Sharpe Ratio" is a metric that combines profitability and risk - it measures units of profitability per unit of risk.
+
+First calculate the difference between the annual return of a stock and the annual return of a risk-free investment in government bonds. Second, divide that difference by the annualized population standard deviation of returns of the stock.
+
+For example, if the annual return of a stock is 10%, the annual risk-free bond return is 2%, and the annualized population standard deviation of returns of the stock is 16%, then the Sharpe Ratio = 8%/16% = 0.5.
+
+For this problem, you can estimate the annualized standard deviation of returns by multiplying your calculated value for the monthly population standard deviation of returns by the square root of 12.
+
+### Question 4: 
+Assuming the risk-free rate is 1.5% per year over the full 12-year interval measured, which asset had the higher Sharpe ratio: SPY or RSP?
+
+* SPY
+* __RSP__
+
+### Question 5: 
+For the asset you chose in Question 4, what was the Sharpe ratio? Round your results to two decimal places.
+
+* 0.56
+* __0.53__
+* 0.50
+* 0.48
+
+### Question 6: 
+In the month ending on which date did Amazon achieve the highest returns?
+
+* September 1, 2010
+* October 1, 2009
+* __April 2, 2007__
+* Jully 3, 2006
+
+### Question 7: 
+What was the monthly return from the question above?
+
+* 22.9%
+* 24.1%
+* __43.27%__
+* 51.87%
+
+### Question 8: 
+What was Duke Energy's return that same month?
+
+* 0.51%
+* __1.13%__
+* 3.04%
+* 3.18%
+
+#### Using the Solver plug-in for Excel, answer Questions 9 and 10, based on the information below:
+Between possible pricing of $5 per pound to $25 per pound, the quantity of coffee Egger's Roast Coffee can sell each month is a linear function of the retail selling price per pound. The linear function is (quantity sold in pounds) = (-400*(Price per pound)) + 10,000.
+
+### Question 9: 
+What is the revenue-maximizing selling price per pound for Egger's Roast Coffee?
+
+* $5.00
+* __$12.50__
+* $13.50
+* $25.00
+
+### Question 10:
+What is the monthly revenue at that price per pound? ( , indicates thousands)
+
+* $15,100
+* __$62,500__
+* $62,100
+* $40,000
