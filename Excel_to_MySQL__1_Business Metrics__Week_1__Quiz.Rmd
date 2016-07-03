@@ -1,0 +1,102 @@
+---
+title: "Week 1 Quiz"
+output: html_document
+---
+### Question 1: Which of the following is NOT an example of a business metric?
+* The percentage of returning customers at a chain restaurant.
+* __The New York State sales tax rate.__
+* Sales revenues for three brands of baby formula for a month.
+* The average time visitors remain on the company's web site.
+
+### Question 2: Which of the following business metrics is an example of a revenue metric?
+* Customer satisfaction with a product
+* Percent defective items from an assembly line
+* __Rental prices of apartment leases by locations__
+* Average days inventory
+
+### Question 3: Which of the following business metrics is an example of a profitability metric?
+* __How many fresh baked cakes have to be thrown away at the end of the day unsold__
+* The annual sales record of a company that makes phone apps
+* A grocery store's tracking record of customers' fish purchases
+* Total annual costs of goods sold of an office product store
+
+### Question 4: Which of the following business metrics is an example of a risk metric?
+* The loss due to unsold fresh fruits each year at a grocery store
+* Winter jacket sales during summer time
+* Days inventory of computers in an electronics store
+* __Monthly negative cash flow for a start-up__
+
+### Question 5: Identify which category the following business metric belongs to:
+Units sales segmented by new and recurring customer
+
+* __Revenue metric__
+* Profitability metric
+* Risk metric
+
+### Question 6: Identify which category the following business metric belongs to:
+A shortage of cold beer at a restaurant during the World Cup
+
+* Revenue metric
+* __Profitability metric__
+* Risk metric
+
+### Question 7: An airline's daily flight from Phoenix to New York is usually full, except for flights on Tuesdays and Wednesdays. What is the first change the airline should try?
+* Increase the number of flights per day on Mondays, Thursdays, Fridays, Saturdays and Sundays.
+* __Offer discounts for Tuesday and Wednesday flights to customers.__
+* Make advertisements about traveling on Tuesdays and Wednesdays to encourage more people travel on these two days.
+* Decrease flight crews on Tuesdays and Wednesdays.
+
+### Question 8: The case above (Question 7) is an example of a ______ metric.
+* Revenue
+* __Profitability__
+* Risk
+
+### Question 9: One online shopping business found that 20% of shoppers quit during the checkout process without buying anything. A good next step would be:
+* __Track exactly when customers stop interacting and experiment to see if small changes in design keep customers engaged at higher rates__
+* Add a small pop-up window on the checkout page with the texts "We are sorry if you are having trouble when checking out. We will fix it later."
+* Offer discounts to the 80% of customers who complete checkout as an encouragement for their patience.
+* Send those customers a letter, email, or text with detailed instructions on how to use the checkout feature.
+
+### Question 10: The average number of days inventory is held should be minimized for ALL of the following reasons EXCEPT ________.
+* The longer the negative float, the more interest a business has to pay
+* Some products will be wasted completely if they don't get purchased by a certain time
+* __Customers are frustrated if something they want is not in stock__
+* It costs money to store the products
+* The longer a product stays in inventory, the less likely it will be purchased
+
+### Question 11: What is the estimated days inventory of Company X based on the information below?
+Company X's annual report listed a year-end inventory of $35.4 million, and annual cost of goods sold of $137.9 million.
+
+* __93.7 days__
+* 67.2 days
+* 3.9 days
+* 94.3 days
+
+```{r}
+35.4/137.9*365
+```
+
+### Question 12: A company sells its services "Net 60." If it delivers the goods and provides an invoice in March, when can the company expect to be paid?
+* March
+* April
+* __May__
+* June
+* July
+
+### Question 13: The primary reason Egger's Roast Coffee ran out of cash was:
+* __Rapid growth__
+* Inefficient production
+* Unsold inventory
+* Lack of innovation
+
+### Question 14: To be a best-seller on Amazon, your book needs to...
+* Be popular and have good reviews
+* Be sold all over the world
+* __Be one of the top selling books in its Amazon topic subcategories__
+* Be one of the 1,000 best-selling books on Amazon
+
+### Question 15: Amazon's "frequently bought with" feature _________.
+* Offers discounts if you buy two books
+* Tells you how frequently the two books are bought together
+* __Is optimized to maximize Amazon's revenues__
+* Is customized for your search terms

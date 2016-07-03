@@ -1,0 +1,89 @@
+---
+title: "Week 2 Quiz"
+output: html_document
+---
+### Question 1: Data Scientists most often enter into that position by:
+* No experience other than an aptitude working with quantitative data is required
+* Earning a masters degree in data science
+* Starting as a Business Analyst and gaining experience and additional technical skills on the job
+* Earning a doctorate degree in statistics or computer science
+
+### Question 2: Why is it important for Business Analysts to have "local knowledge" of business sectors?
+* Business Analyst typically work in a specific business sector, such as insurance, and every sector has specialized metrics developed for that sector.
+* Clients expect Business Analysts to be able to discuss their specific business environments in detail
+* Client provided data typically only contains "local knowledge"
+* All of the above
+
+### Question 3: Why should a Business Data Analyst have SQL skills?
+* To retrieve data from different types of databases throughout the organization
+* To increase their efficiency and autonomy
+* To be able to combine data from multiple sources to create new data sets and answer new questions.
+* All of the above.
+
+### Question 4: True or False: None of the nine skills we discussed earlier as required by all Business Data Analysts are part of the skills used regularly by a typical software engineer.
+* True
+* False
+
+### Question 5: True or False: Strategic consulting firms with a software/systems integration focus often introduce the latest methods for achieving competitive advantage into a particular vertical market, such as retail pharmacies, which forces other companies in that vertical to use the same methods to stay competitive.
+* True
+* False
+
+### Question 6: Hardware & software companies compete in a market that has a very unusual cost structure. This is because:
+* These types of companies derive their value from developing and delivering proprietary intellectual property.
+* They incur almost all their costs up front, before the first product is sold, while the incremental cost to create one more unit of the product is very low.
+* It has high variable costs and low fixed costs.
+* All of the above.
+
+### Question 7: The major difference in which digital companies differ from software and hardware companies is:
+* They produce technology primarily for their own internal use
+* They typically compete directly against "Brick-and-Mortar" companies
+* They force traditional companies to change their practices or risk going out of business
+* All of the above.
+
+### Question 8: Of the five business types represented among US companies, Traditional Strategic Business Consulting firms are the least likely to hire software engineers and technical project managers. Why?
+* Analysts represent the largest single job type in these types of firms
+* These firms focus on ways to improve business processes, such as increasing revenues and reducing risk.
+* Strategic planning in the corporate world is critical to a firm's success
+* Strategic Business Consulting generally does not include developing or installing technology.
+
+### Question 9: Which type of firm represents the largest threat to traditional "brick and mortar" firms because low cost structures allow them to compete for the same business at much more competitive rates?
+* Hardware and Software Companies
+* Digital Companies
+* Traditional Strategic Business Consulting firms
+* Business Consulting firms with an IT focus
+
+### Question 10: Argus is an unusual type of Traditional Strategic Business Consulting firm because it:
+* Focuses its analysis on transaction-level purchasing information
+* Builds models that analyze revenues, profitability, and risk
+* Relies on a proprietary database to offer specialized advice to clients
+* Focuses its analysis on consumer behavior
+
+### Question 11: Business Analysts at Strategic Consulting Firms will work with data:
+* Extracted from the client's databases
+* Developed by the Firm for a particular client
+* Drawn from the firm's own proprietary data collections
+* All of the above.
+
+### Question 12: In evaluating the competitiveness of a bricks-and-mortar company, the element that is most critical to assess is:
+* Pricing
+* Production efficiency
+* Does the company deliver its product or service as quickly as its online competitors?
+* Brand Awareness and customer loyalty
+
+### Question 13: What is the biggest mistake a Bricks-and-Mortar company can make?
+* Try to be the low-cost provider
+* Measure its market share only against its brick-and-mortar competitors
+* Try to promote brand loyalty and charge more than the low-cost provider
+* Try to compete feature-for-feature with digital companies
+
+### Question 14: What is a competitive strategy Barnes and Noble might pursue which cannot succeed?
+* Sell books at a lower price point than Amazon
+* Have a larger inventory on hand than Amazon
+* Sell books on their web site
+* All of the above.
+
+### Question 15: What type of worker uses Excel to store and analyze data?
+* Business Analyst
+* Business Data Analyst
+* Data Scientist
+* All of the above
