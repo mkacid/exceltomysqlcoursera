@@ -6,7 +6,7 @@ output: html_document
 ## Practice Quiz
 __Background Information:__ You are provided below with an Excel Spreadsheet that gives one year's daily continually compounded returns for two chemical company stocks, Dow and Dupont, and the S&P 500, a weighted index of 500 large company stocks.  
 [Week 1 Practice Quiz Spreadsheet](https://d18ky98rnyall9.cloudfront.net/_f3ef0701f408b0fae584b1a713e84748_Week-1-Practice-Quiz-Spreadsheet.xlsx?Expires=1467676800&Signature=Tl4PsTIlUs6ofZUXm390O8tJQZ-CtcKWu-Au4K6fy8R7V1jjQIAMVUBpHdWxW18RiX69mIV0UT6BgKS8ArQso1qgqma6JCYk-W4pW8m1chT8V-dkoCi830ieMgARrJusm5epGGJEqxVlZaC7JvmZwXrTh2oNgcV~ea0tx~GEuX4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)  
-[Completed Week 1 Practice Quiz Spreadsheet]("/Data Sets/Week_1_Practice_Quiz_Spreadsheet.xlsx")
+[Completed Week 1 Practice Quiz Spreadsheet](https://github.com/mkacid/exceltomysqlcoursera/blob/master/Data%20Sets/Week_1_Practice_Quiz_Spreadsheet.xlsx)
 
 ### Question 1: 
 __Excel Problem Type:__ Summing a column  
@@ -90,7 +90,7 @@ __Question:__ What is Beta for Dow Chemical? Give the answer rounded two digits 
 ## Graded Quiz
 Download the Solutions Workbook (below) and find the tab labeled 2S-10 that contains monthly continuously compounded returns for two stock indexes - RSP and SPY - and two individual stocks - Amazon and Duke Energy - for the 12 years from May 2003 to May 2015.  
 [SolutionWorkbook](https://d18ky98rnyall9.cloudfront.net/_88b98614aae9ef0e7567a32e94459084_SolutionWorkbook.xlsx?Expires=1467676800&Signature=LM8F0bgaYqX7v4BTBmwowb4JGE8UZed~tp4Jtbsx3XXreTzNhsff9C9QLEk2j36kqKX91po5fjo59wCNH9KYuTBI~2q213FtV8o9woeLwosypgUyr3u27Rf6teaKQz~R1y81Q~3MdeOECs3bvPkM8ALnBWfDgifNKpkFgZjyxxE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)  
-[Completed SolutionWorkbook]()  
+[Completed SolutionWorkbook](https://github.com/mkacid/exceltomysqlcoursera/blob/master/Data%20Sets/SolutionWorkbook.xlsx)  
 
 #### Answer Questions 1-3 based on the information below:
 Use Excel's chart function to generate a scatter plot of SPY index monthly returns (y axis) against Amazon monthly returns (x axis). When you use "trendline" option for slope, R-squared, and the y-intercept, double-check your results against the equivalent cell formula answers.
